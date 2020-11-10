@@ -1,0 +1,24 @@
+{
+  "name": "RobinReadmegenerator",
+  "version": "1.0.0",
+  "description": "CMD App that creates a professional readme based on user input criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rswalm"
+  },
+  "author": "Robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rswalm"
+  },
+  "homepage": "https://github.com/rswalm",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
+  }
+}
