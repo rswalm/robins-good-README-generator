@@ -9,12 +9,13 @@ When the user is prompted for information about their application repository a q
 
 ## The generated README includes the following sections: 
 
-What is the project title?
-Write a brief description of your project:
-Describe the installation process if any:
-What is this project usage for?
-Chose the appropriate license for this project
-Who are the contributors of this projects?
-Is there a test included?
-What do I do if I have an issue?
-Please enter your email
+* What is the project title?
+* Write a brief description of your project:
+* Describe the installation process if any:
+* What is this project usage for?
+* Chose the appropriate license for this project
+* Who are the contributors of this projects?
+* Is there a test included?
+* What do I do if I have an issue?
+* Please enter your email.
+
